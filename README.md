@@ -35,7 +35,7 @@ Some anonymized or legally required data (such as transaction or audit logs) may
 
 <h2>Contact</h2>
 <p>
-If you have any questions, contact us at <b>support@momsnest.app</b>
+If you have any questions, contact us at <b>Mayankraj902@gmail.com</b>
 </p>
 
 </body>
