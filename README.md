@@ -15,7 +15,7 @@ Mom’sNest respects your privacy. You can request deletion of your account and 
 
 <h2>How to Request Account Deletion</h2>
 <ol>
-    <li>Send an email to <b>support@momsnest.app</b></li>
+    <li>Send an email to <b>mayankraj902@gmail.com</b></li>
     <li>Use the subject line: <b>Account Deletion Request</b></li>
     <li>Mention your registered email or phone number</li>
 </ol>
