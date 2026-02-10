@@ -1,5 +1,5 @@
 # momsnest-privacy-delete-account
-<!DOCTYPE html>
+
 <html>
 <head>
     <title>Delete Account – Mom’sNest</title>
